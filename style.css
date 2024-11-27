@@ -1,0 +1,57 @@
+* {
+    
+    font-family:verdana;
+    
+}
+body{
+  background-color:#E9E9E9;
+}
+h1{
+  color:#6470ED;
+  font-size:70px;
+}
+.Forms{
+  background-color:#F4EEFF;
+  text-align:center;
+  max-width: 580px;
+  max-height: auto;
+  margin:auto;
+  padding:18px;
+  border-radius:10px;
+  box-shadow:5px 5px 15px #B19CDB;
+}
+#myTextBox{
+  width: 50%;
+  text-align:center;
+  font-size:50px;
+  border:2px solid #30097E;
+  border-radius:10px;
+  margin: 0 0 20px 0;
+  
+}
+label{
+  font-size:50px;
+  font-weight: bolder;
+  
+}
+button{
+  margin:20px 0 0 0;
+  border:none;
+  background-color:#2B80B2;
+  color:#F1F1F1;
+  font-size:70px;
+  border-radius: 12px;
+  cursor: pointer ;
+  width: 50%;
+  
+}
+button:active{
+  background:#060052;
+  color:#EEF0F1;
+  transform: scale(0.8);
+}
+
+#result{
+  font-size: 60px;
+  
+}
